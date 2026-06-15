@@ -33,3 +33,7 @@ Using the Twitter US Airlines Sentiment dataset, multiple approaches including S
 - BERT achieved the strongest overall performance.
 - XGBoost delivered the best performance among traditional machine learning models.
 - Comparative analysis highlighted the advantages of transformer architectures for sentiment classification tasks.
+
+## Note
+
+Experimental results indicated that extensive preprocessing, including aggressive token filtering and normalization, can result in information loss, reducing the ability of models to capture sentiment-bearing patterns and contextual relationships within the text.
